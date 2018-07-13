@@ -4,3 +4,5 @@ git status
 提交到暂存区 
 单个文件的提交   单个目录的提交
 get add
+ 全部检出   
+get checkout  。 *
