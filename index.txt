@@ -1,0 +1,6 @@
+git init  
+查看文件状态
+git status
+提交到暂存区 
+单个文件的提交   单个目录的提交
+get add
